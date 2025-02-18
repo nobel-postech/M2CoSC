@@ -43,5 +43,3 @@ Through **multi-hop psychotherapeutic reasoning**, M2CoSC helps AI models incorp
 Due to AffectNet licensing restrictions, we provide only synthetic dialogues with image IDs. To access the full dataset, including images, researchers must obtain an AffectNet license and request access.
 
 For dataset access, visit [here](https://huggingface.co/datasets/multimodal-reframing/M2CoSC).
-
-

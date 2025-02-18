@@ -1,0 +1,2 @@
+Look at the client's image. What are the emotions on the client’s face? Answer with the option’s letter from the given choices directly.
+Options: (A) anger (B) contempt (C) disgust (D) fear (E) neutral (F) sad (G) surprise

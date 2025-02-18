@@ -1,0 +1,1 @@
+The client thought about the situation '{value}'.

@@ -1,0 +1,1 @@
+The situation the client faces is '{value}'.

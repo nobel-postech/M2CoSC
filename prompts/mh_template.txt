@@ -1,0 +1,9 @@
+Here is the conversation between client and therapist.
+
+<image>
+{history}
+
+Here is the client states.
+{client_state}
+
+{stage_instruction}

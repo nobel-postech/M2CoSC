@@ -4,7 +4,7 @@ This is the official github repository for [Multimodal Cognitive Reframing Thera
 ](https://arxiv.org/abs/2502.06873) accepted at NAACL 2025 Main.
 
 
-If this code and dataset helps you in your research, please cite the following publication:
+If this code and dataset help you in your research, please cite the following publication:
 ```
 @misc{kim2025multimodalcognitivereframingtherapy,
     title={Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning}, 

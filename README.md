@@ -4,7 +4,7 @@ This is the official github repository for [Multimodal Cognitive Reframing Thera
 ](https://arxiv.org/abs/2502.06873) accepted at NAACL 2025 Main.
 
 
-If this dataset helps you in your research, please cite the following publication:
+If this code and dataset helps you in your research, please cite the following publication:
 ```
 @misc{kim2025multimodalcognitivereframingtherapy,
     title={Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning}, 
@@ -17,7 +17,11 @@ If this dataset helps you in your research, please cite the following publicatio
 }
 ```
 
+
 ## **Introduction**
+
+![Dataset Construction](assets/dataset.PNG)
+
 The **M2CoSC** dataset is an initial study exploring how AI-driven psychotherapy can be enhanced by integrating text-based dialogues with visual cues. Traditional therapy models relying solely on text overlook crucial non-verbal emotional expressions. M2CoSC aims to bridge this gap by pairing therapy dialogues with facial expressions, enabling AI models to better interpret and respond to client emotions.
 
 As a **first step** in this research direction, we created M2CoSC using GPT-4 as a virtual client and GPT-4 Vision as a therapist, following a four-stage therapy framework:
@@ -27,7 +31,12 @@ As a **first step** in this research direction, we created M2CoSC using GPT-4 as
 3. **Brainstorming**: Considering alternative perspectives.
 4. **Suggestion**: Providing constructive guidance.
 
+<br>
+
+![MH](assets/framework-wide.PNG)
+
 Through **multi-hop psychotherapeutic reasoning**, M2CoSC helps AI models incorporate subtle emotional cues, leading to more empathetic and effective therapy interactions. Our experiments suggest that Vision-Language Models (VLMs) trained on M2CoSC have potential advantages over standard LLMs in delivering logical and emotionally aware interventions. We encourage further studies to expand on this work.
+
 
 
 ## **Dataset Access Instructions**
